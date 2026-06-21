@@ -140,6 +140,5 @@ These set everything up and open the app automatically.
 ## 👥 Authors
 
 - **Ahmed Nadeem** — BSCS23185
-- **Syed Muhammad Ahmer** — BSCS23167
 
 *Information Technology University — Department of Computer Science / AI*
